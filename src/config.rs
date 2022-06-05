@@ -1,19 +1,19 @@
 use serde::Deserialize;
 
 #[derive(Deserialize, Debug)]
-pub struct NotionAPI {
+pub struct NotionAPIConfig {
     #[serde(default = "default_unset")]
-    key: String,
+    pub key: String,
     #[serde(default = "default_unset")]
-    workspace: String,
+    pub workspace: String,
 }
 
 fn default_unset() -> String {
     String::from("UNSET")
 }
 
-pub fn init() -> NotionAPI {
+pub fn init() -> NotionAPIConfig {
     envy::prefixed("NOTION_API_")
-        .from_env::<NotionAPI>()
+        .from_env::<NotionAPIConfig>()
         .expect("Please provide NOTION_API_KEY and NOTION_API_WORKSPACE")
 }

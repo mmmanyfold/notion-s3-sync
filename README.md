@@ -23,7 +23,7 @@ Download your Notion's workspace content via Notion API and optionally uploads t
 ```shell
 export NOTION_API_KEY="secret"
 export NOTION_API_WORKSPACE="mmmanyfold"
-./ns3 
+./ns3 --database xyz
 
 # during development
 NOTION_API_KEY=secret NOTION_API_WORKSPACE=mmmanyfold \

@@ -5,7 +5,8 @@ pub fn run() -> ArgMatches {
         .about("Notion S3 Sync")
         .arg(
             Arg::new("database")
-                .short('d').long("database")
+                .short('d')
+                .long("database")
                 .help("The notion database id to download")
                 .takes_value(true)
                 .required(true),
