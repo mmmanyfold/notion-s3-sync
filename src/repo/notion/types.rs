@@ -2,12 +2,6 @@ use serde_derive::Deserialize;
 use serde_derive::Serialize;
 use serde_json::Value;
 
-#[derive(Deserialize, Debug)]
-#[serde(rename_all = "camelCase")]
-pub struct Ip {
-    pub origin: String,
-}
-
 #[derive(Serialize, Deserialize, Debug, Clone)]
 #[serde(rename_all = "camelCase")]
 pub struct Root {
@@ -27,20 +21,20 @@ pub struct Root {
 pub struct Result {
     pub object: String,
     pub id: String,
-    #[serde(rename = "created_time")]
-    pub created_time: String,
-    #[serde(rename = "last_edited_time")]
-    pub last_edited_time: String,
-    #[serde(rename = "created_by")]
-    pub created_by: CreatedBy,
-    #[serde(rename = "last_edited_by")]
-    pub last_edited_by: LastEditedBy,
-    pub cover: Cover,
-    pub icon: Icon,
-    pub parent: Parent,
-    pub archived: bool,
-    pub properties: Properties,
-    pub url: String,
+    // #[serde(rename = "created_time")]
+    // pub created_time: String,
+    // #[serde(rename = "last_edited_time")]
+    // pub last_edited_time: String,
+    // #[serde(rename = "created_by")]
+    // pub created_by: CreatedBy,
+    // #[serde(rename = "last_edited_by")]
+    // pub last_edited_by: LastEditedBy,
+    // pub cover: Cover,
+    // pub icon: Icon,
+    // pub parent: Parent,
+    // pub archived: bool,
+    // pub properties: Properties,
+    // pub url: String,
 }
 
 #[derive(Serialize, Deserialize, Debug, Clone)]

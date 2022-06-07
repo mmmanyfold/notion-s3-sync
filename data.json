@@ -1,0 +1,4992 @@
+{
+  "object": "list",
+  "results": [
+    {
+      "object": "page",
+      "id": "acc4adf7-3ba1-4814-8d8c-8ecdbf41430b",
+      "created_time": "2022-05-23T20:08:00.000Z",
+      "last_edited_time": "2022-05-23T20:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "b84e74af-1a0b-495e-ac45-7fa25f54d686"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "b84e74af-1a0b-495e-ac45-7fa25f54d686"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "bee593ef-dc65-4282-911f-3dc5550e144a"
+      },
+      "archived": false,
+      "properties": {
+        "Homepage Assets": {
+          "id": "%3FXOH",
+          "type": "relation",
+          "relation": [
+            {
+              "id": "ddd8c01b-1f29-4bd2-aa0c-2b8e1b75ea6e"
+            }
+          ]
+        },
+        "Transcript": {
+          "id": "JXQO",
+          "type": "relation",
+          "relation": []
+        },
+        "Description": {
+          "id": "NaJA",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "With J. Midden & Mak Hepler-Gonzalez\n\nIcebox Project Space\n\nProduction assistance from M. Slater\n\nExhibition text by Sharmyn Cruz Rivera\n\nDesign with YESHI\n\nPhotos by Alina Wang",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "With J. Midden & Mak Hepler-Gonzalez\n\nIcebox Project Space\n\nProduction assistance from M. Slater\n\nExhibition text by Sharmyn Cruz Rivera\n\nDesign with YESHI\n\nPhotos by Alina Wang",
+              "href": null
+            }
+          ]
+        },
+        "Press & Exhibition Catalogues": {
+          "id": "gTiv",
+          "type": "relation",
+          "relation": []
+        },
+        "Exhibition Publication": {
+          "id": "gjzR",
+          "type": "files",
+          "files": []
+        },
+        "Year": {
+          "id": "nOA%5B",
+          "type": "select",
+          "select": {
+            "id": "L<po",
+            "name": "2021",
+            "color": "red"
+          }
+        },
+        "Exhibitions & Screenings": {
+          "id": "n~_N",
+          "type": "relation",
+          "relation": []
+        },
+        "ID": {
+          "id": "sB~%60",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "26",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "26",
+              "href": null
+            }
+          ]
+        },
+        "Medium": {
+          "id": "sXER",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Projected video, sound, tiered plywood seating, canvas pillows",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Projected video, sound, tiered plywood seating, canvas pillows",
+              "href": null
+            }
+          ]
+        },
+        "Exhibition Guide": {
+          "id": "wMc%5B",
+          "type": "files",
+          "files": []
+        },
+        "Tags": {
+          "id": "znns",
+          "type": "multi_select",
+          "multi_select": [
+            {
+              "id": "bc0731aa-7b0c-49c2-9765-9132415acbaf",
+              "name": "Installation",
+              "color": "yellow"
+            }
+          ]
+        },
+        "Thumbnail": {
+          "id": "~mnE",
+          "type": "files",
+          "files": []
+        },
+        "Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Virtues Vol. 1",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Virtues Vol. 1",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/Virtues-Vol-1-acc4adf73ba148148d8c8ecdbf41430b"
+    },
+    {
+      "object": "page",
+      "id": "8fe4f6eb-3976-4ea4-aae3-74798a138f71",
+      "created_time": "2022-05-23T20:05:00.000Z",
+      "last_edited_time": "2022-06-02T19:29:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "b84e74af-1a0b-495e-ac45-7fa25f54d686"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "b84e74af-1a0b-495e-ac45-7fa25f54d686"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "bee593ef-dc65-4282-911f-3dc5550e144a"
+      },
+      "archived": false,
+      "properties": {
+        "Homepage Assets": {
+          "id": "%3FXOH",
+          "type": "relation",
+          "relation": [
+            {
+              "id": "62d04493-415c-455f-b10a-946cf536c401"
+            }
+          ]
+        },
+        "Transcript": {
+          "id": "JXQO",
+          "type": "relation",
+          "relation": []
+        },
+        "Description": {
+          "id": "NaJA",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "With J. Midden & Mak Hepler-Gonzalez",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "With J. Midden & Mak Hepler-Gonzalez",
+              "href": null
+            }
+          ]
+        },
+        "Press & Exhibition Catalogues": {
+          "id": "gTiv",
+          "type": "relation",
+          "relation": []
+        },
+        "Exhibition Publication": {
+          "id": "gjzR",
+          "type": "files",
+          "files": []
+        },
+        "Year": {
+          "id": "nOA%5B",
+          "type": "select",
+          "select": {
+            "id": "L<po",
+            "name": "2021",
+            "color": "red"
+          }
+        },
+        "Exhibitions & Screenings": {
+          "id": "n~_N",
+          "type": "relation",
+          "relation": []
+        },
+        "ID": {
+          "id": "sB~%60",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "25",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "25",
+              "href": null
+            }
+          ]
+        },
+        "Medium": {
+          "id": "sXER",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "HD video, color, sound\n24:25 min.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "HD video, color, sound\n24:25 min.",
+              "href": null
+            }
+          ]
+        },
+        "Exhibition Guide": {
+          "id": "wMc%5B",
+          "type": "files",
+          "files": []
+        },
+        "Tags": {
+          "id": "znns",
+          "type": "multi_select",
+          "multi_select": [
+            {
+              "id": "aaff8020-c421-40ea-8d23-1726af9a481f",
+              "name": "Video",
+              "color": "orange"
+            },
+            {
+              "id": "7e0fc3c4-223b-4104-88b3-b45b7e2c5dce",
+              "name": "Music",
+              "color": "red"
+            }
+          ]
+        },
+        "Thumbnail": {
+          "id": "~mnE",
+          "type": "files",
+          "files": []
+        },
+        "Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Virtues Vol. 1",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Virtues Vol. 1",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/Virtues-Vol-1-8fe4f6eb39764ea4aae374798a138f71"
+    },
+    {
+      "object": "page",
+      "id": "18ac1cc4-2f36-40d8-9e0c-443e74e42bd2",
+      "created_time": "2022-05-23T16:28:00.000Z",
+      "last_edited_time": "2022-06-02T20:17:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "b84e74af-1a0b-495e-ac45-7fa25f54d686"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "b84e74af-1a0b-495e-ac45-7fa25f54d686"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "bee593ef-dc65-4282-911f-3dc5550e144a"
+      },
+      "archived": false,
+      "properties": {
+        "Homepage Assets": {
+          "id": "%3FXOH",
+          "type": "relation",
+          "relation": [
+            {
+              "id": "b3af7ef0-797a-4961-90dd-3d2fdf8798fe"
+            }
+          ]
+        },
+        "Transcript": {
+          "id": "JXQO",
+          "type": "relation",
+          "relation": [
+            {
+              "id": "8b1f1b7a-b419-4ac5-9e36-88e1cb5ae95a"
+            }
+          ]
+        },
+        "Description": {
+          "id": "NaJA",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "With gratitude to Mary Patten",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "With gratitude to Mary Patten",
+              "href": null
+            }
+          ]
+        },
+        "Press & Exhibition Catalogues": {
+          "id": "gTiv",
+          "type": "relation",
+          "relation": []
+        },
+        "Exhibition Publication": {
+          "id": "gjzR",
+          "type": "files",
+          "files": []
+        },
+        "Year": {
+          "id": "nOA%5B",
+          "type": "select",
+          "select": {
+            "id": "AHzn",
+            "name": "2011",
+            "color": "orange"
+          }
+        },
+        "Exhibitions & Screenings": {
+          "id": "n~_N",
+          "type": "relation",
+          "relation": []
+        },
+        "ID": {
+          "id": "sB~%60",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "01",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "01",
+              "href": null
+            }
+          ]
+        },
+        "Medium": {
+          "id": "sXER",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "HD video, color, sound\n3:00 min.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "HD video, color, sound\n3:00 min.",
+              "href": null
+            }
+          ]
+        },
+        "Exhibition Guide": {
+          "id": "wMc%5B",
+          "type": "files",
+          "files": []
+        },
+        "Tags": {
+          "id": "znns",
+          "type": "multi_select",
+          "multi_select": [
+            {
+              "id": "aaff8020-c421-40ea-8d23-1726af9a481f",
+              "name": "Video",
+              "color": "orange"
+            }
+          ]
+        },
+        "Thumbnail": {
+          "id": "~mnE",
+          "type": "files",
+          "files": [
+            {
+              "name": "RamiGeorge_2011_Untitled-family-albums_ref.png",
+              "type": "file",
+              "file": {
+                "url": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/8c3dad00-7496-4042-9953-311443ff7f5e/RamiGeorge_2011_Untitled-family-albums_ref.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220604%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220604T181349Z&X-Amz-Expires=3600&X-Amz-Signature=b29d0b81154ad726dbfbb1679c056521946b0b2b798b83cde9843648dd16f85a&X-Amz-SignedHeaders=host&x-id=GetObject",
+                "expiry_time": "2022-06-04T19:13:49.505Z"
+              }
+            }
+          ]
+        },
+        "Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Untitled (family albums)",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": true,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Untitled (family albums)",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/Untitled-family-albums-18ac1cc42f3640d89e0c443e74e42bd2"
+    },
+    {
+      "object": "page",
+      "id": "75e47174-b1e7-40f8-b281-fd60f7212cf3",
+      "created_time": "2022-05-23T16:25:00.000Z",
+      "last_edited_time": "2022-06-02T20:17:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "b84e74af-1a0b-495e-ac45-7fa25f54d686"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "b84e74af-1a0b-495e-ac45-7fa25f54d686"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "bee593ef-dc65-4282-911f-3dc5550e144a"
+      },
+      "archived": false,
+      "properties": {
+        "Homepage Assets": {
+          "id": "%3FXOH",
+          "type": "relation",
+          "relation": [
+            {
+              "id": "ba6f53c4-98eb-446d-9043-babe88e18dde"
+            }
+          ]
+        },
+        "Transcript": {
+          "id": "JXQO",
+          "type": "relation",
+          "relation": [
+            {
+              "id": "9f3b1362-6ed3-42c1-ab82-55c67b5964ec"
+            }
+          ]
+        },
+        "Description": {
+          "id": "NaJA",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Voice of Johnny Knight\n\nWith gratitude to Frederic Moffet & Tirtza Even",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Voice of Johnny Knight\n\nWith gratitude to Frederic Moffet & Tirtza Even",
+              "href": null
+            }
+          ]
+        },
+        "Press & Exhibition Catalogues": {
+          "id": "gTiv",
+          "type": "relation",
+          "relation": []
+        },
+        "Exhibition Publication": {
+          "id": "gjzR",
+          "type": "files",
+          "files": []
+        },
+        "Year": {
+          "id": "nOA%5B",
+          "type": "select",
+          "select": {
+            "id": "d5fcf3e7-8075-42f1-979b-18725f7384ea",
+            "name": "2012",
+            "color": "yellow"
+          }
+        },
+        "Exhibitions & Screenings": {
+          "id": "n~_N",
+          "type": "relation",
+          "relation": []
+        },
+        "ID": {
+          "id": "sB~%60",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "02",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "02",
+              "href": null
+            }
+          ]
+        },
+        "Medium": {
+          "id": "sXER",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "HD video, color, sound\n7:35 min.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "HD video, color, sound\n7:35 min.",
+              "href": null
+            }
+          ]
+        },
+        "Exhibition Guide": {
+          "id": "wMc%5B",
+          "type": "files",
+          "files": []
+        },
+        "Tags": {
+          "id": "znns",
+          "type": "multi_select",
+          "multi_select": [
+            {
+              "id": "aaff8020-c421-40ea-8d23-1726af9a481f",
+              "name": "Video",
+              "color": "orange"
+            }
+          ]
+        },
+        "Thumbnail": {
+          "id": "~mnE",
+          "type": "files",
+          "files": [
+            {
+              "name": "RamiGeorge_2012_Untitled-two-men-last-scene_2_ref.png",
+              "type": "file",
+              "file": {
+                "url": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/51102f62-0a35-4115-9552-98c035c7049f/RamiGeorge_2012_Untitled-two-men-last-scene_2_ref.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220604%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220604T181349Z&X-Amz-Expires=3600&X-Amz-Signature=828001611f8818ff37708658885b247fcf2798e8f6469e8c1c227458d2850854&X-Amz-SignedHeaders=host&x-id=GetObject",
+                "expiry_time": "2022-06-04T19:13:49.505Z"
+              }
+            }
+          ]
+        },
+        "Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Untitled (two men, last scene)",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": true,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Untitled (two men, last scene)",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/Untitled-two-men-last-scene-75e47174b1e740f8b281fd60f7212cf3"
+    },
+    {
+      "object": "page",
+      "id": "d3b46d8e-9a35-46e3-ace5-9c30cbd28fb0",
+      "created_time": "2022-05-23T16:24:00.000Z",
+      "last_edited_time": "2022-06-02T20:17:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "b84e74af-1a0b-495e-ac45-7fa25f54d686"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "b84e74af-1a0b-495e-ac45-7fa25f54d686"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "bee593ef-dc65-4282-911f-3dc5550e144a"
+      },
+      "archived": false,
+      "properties": {
+        "Homepage Assets": {
+          "id": "%3FXOH",
+          "type": "relation",
+          "relation": [
+            {
+              "id": "3c2ed8e1-6524-4007-8bac-0fc4882315cd"
+            }
+          ]
+        },
+        "Transcript": {
+          "id": "JXQO",
+          "type": "relation",
+          "relation": []
+        },
+        "Description": {
+          "id": "NaJA",
+          "type": "rich_text",
+          "rich_text": []
+        },
+        "Press & Exhibition Catalogues": {
+          "id": "gTiv",
+          "type": "relation",
+          "relation": []
+        },
+        "Exhibition Publication": {
+          "id": "gjzR",
+          "type": "files",
+          "files": []
+        },
+        "Year": {
+          "id": "nOA%5B",
+          "type": "select",
+          "select": {
+            "id": "d5fcf3e7-8075-42f1-979b-18725f7384ea",
+            "name": "2012",
+            "color": "yellow"
+          }
+        },
+        "Exhibitions & Screenings": {
+          "id": "n~_N",
+          "type": "relation",
+          "relation": []
+        },
+        "ID": {
+          "id": "sB~%60",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "03",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "03",
+              "href": null
+            }
+          ]
+        },
+        "Medium": {
+          "id": "sXER",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Neon text, two-channel projected video, gray paint",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Neon text, two-channel projected video, gray paint",
+              "href": null
+            }
+          ]
+        },
+        "Exhibition Guide": {
+          "id": "wMc%5B",
+          "type": "files",
+          "files": []
+        },
+        "Tags": {
+          "id": "znns",
+          "type": "multi_select",
+          "multi_select": [
+            {
+              "id": "bc0731aa-7b0c-49c2-9765-9132415acbaf",
+              "name": "Installation",
+              "color": "yellow"
+            }
+          ]
+        },
+        "Thumbnail": {
+          "id": "~mnE",
+          "type": "files",
+          "files": [
+            {
+              "name": "RamiGeorge_2012_Untitled-two-men-last-scene_ref.png",
+              "type": "file",
+              "file": {
+                "url": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/d176d84b-49bf-45ce-b613-1ccf5e1bce33/RamiGeorge_2012_Untitled-two-men-last-scene_ref.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220604%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220604T181349Z&X-Amz-Expires=3600&X-Amz-Signature=b19fe4648a1e5c203e9a2eb7db8939b167103d38ace0f6cc27089bd2150769f4&X-Amz-SignedHeaders=host&x-id=GetObject",
+                "expiry_time": "2022-06-04T19:13:49.504Z"
+              }
+            }
+          ]
+        },
+        "Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Untitled (two men, last scene)",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": true,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Untitled (two men, last scene)",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/Untitled-two-men-last-scene-d3b46d8e9a3546e3ace59c30cbd28fb0"
+    },
+    {
+      "object": "page",
+      "id": "9b2880a4-275d-4d9d-b268-be5605bcc724",
+      "created_time": "2022-05-23T16:20:00.000Z",
+      "last_edited_time": "2022-06-02T20:16:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "b84e74af-1a0b-495e-ac45-7fa25f54d686"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "b84e74af-1a0b-495e-ac45-7fa25f54d686"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "bee593ef-dc65-4282-911f-3dc5550e144a"
+      },
+      "archived": false,
+      "properties": {
+        "Homepage Assets": {
+          "id": "%3FXOH",
+          "type": "relation",
+          "relation": [
+            {
+              "id": "915376f7-3e9c-4091-8048-45275c3ba3f9"
+            }
+          ]
+        },
+        "Transcript": {
+          "id": "JXQO",
+          "type": "relation",
+          "relation": [
+            {
+              "id": "ecd79990-9421-400b-8f82-13789601dcdf"
+            }
+          ]
+        },
+        "Description": {
+          "id": "NaJA",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Voice of Cáit NíSíomón",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Voice of Cáit NíSíomón",
+              "href": null
+            }
+          ]
+        },
+        "Press & Exhibition Catalogues": {
+          "id": "gTiv",
+          "type": "relation",
+          "relation": []
+        },
+        "Exhibition Publication": {
+          "id": "gjzR",
+          "type": "files",
+          "files": []
+        },
+        "Year": {
+          "id": "nOA%5B",
+          "type": "select",
+          "select": {
+            "id": "nAF]",
+            "name": "2014",
+            "color": "blue"
+          }
+        },
+        "Exhibitions & Screenings": {
+          "id": "n~_N",
+          "type": "relation",
+          "relation": []
+        },
+        "ID": {
+          "id": "sB~%60",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "05",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "05",
+              "href": null
+            }
+          ]
+        },
+        "Medium": {
+          "id": "sXER",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "HD video, color, sound\n5:46 min.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "HD video, color, sound\n5:46 min.",
+              "href": null
+            }
+          ]
+        },
+        "Exhibition Guide": {
+          "id": "wMc%5B",
+          "type": "files",
+          "files": []
+        },
+        "Tags": {
+          "id": "znns",
+          "type": "multi_select",
+          "multi_select": [
+            {
+              "id": "aaff8020-c421-40ea-8d23-1726af9a481f",
+              "name": "Video",
+              "color": "orange"
+            }
+          ]
+        },
+        "Thumbnail": {
+          "id": "~mnE",
+          "type": "files",
+          "files": [
+            {
+              "name": "RamiGeorge_2014_Untitled-Samaritan-Foundation_ref.png",
+              "type": "file",
+              "file": {
+                "url": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/68fce4b0-2716-4015-a875-4d4519acced6/RamiGeorge_2014_Untitled-Samaritan-Foundation_ref.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220604%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220604T181349Z&X-Amz-Expires=3600&X-Amz-Signature=51f7b4b7a4fa1ee0090aabbca2509e7b1e689e52bb7f67a4b4dabe199e140754&X-Amz-SignedHeaders=host&x-id=GetObject",
+                "expiry_time": "2022-06-04T19:13:49.517Z"
+              }
+            }
+          ]
+        },
+        "Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Untitled (Samaritan Foundation)",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": true,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Untitled (Samaritan Foundation)",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/Untitled-Samaritan-Foundation-9b2880a4275d4d9db268be5605bcc724"
+    },
+    {
+      "object": "page",
+      "id": "938429df-d752-4c5c-a8b0-7c536fafedf1",
+      "created_time": "2022-05-23T16:15:00.000Z",
+      "last_edited_time": "2022-06-02T20:15:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "b84e74af-1a0b-495e-ac45-7fa25f54d686"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "b84e74af-1a0b-495e-ac45-7fa25f54d686"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "bee593ef-dc65-4282-911f-3dc5550e144a"
+      },
+      "archived": false,
+      "properties": {
+        "Homepage Assets": {
+          "id": "%3FXOH",
+          "type": "relation",
+          "relation": [
+            {
+              "id": "3c723a14-c5bc-49e4-9393-b58fdf05b9ad"
+            }
+          ]
+        },
+        "Transcript": {
+          "id": "JXQO",
+          "type": "relation",
+          "relation": [
+            {
+              "id": "b1b803f5-305d-4a49-b557-458ce5038f01"
+            }
+          ]
+        },
+        "Description": {
+          "id": "NaJA",
+          "type": "rich_text",
+          "rich_text": []
+        },
+        "Press & Exhibition Catalogues": {
+          "id": "gTiv",
+          "type": "relation",
+          "relation": []
+        },
+        "Exhibition Publication": {
+          "id": "gjzR",
+          "type": "files",
+          "files": []
+        },
+        "Year": {
+          "id": "nOA%5B",
+          "type": "select",
+          "select": {
+            "id": "nAF]",
+            "name": "2014",
+            "color": "blue"
+          }
+        },
+        "Exhibitions & Screenings": {
+          "id": "n~_N",
+          "type": "relation",
+          "relation": []
+        },
+        "ID": {
+          "id": "sB~%60",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "06",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "06",
+              "href": null
+            }
+          ]
+        },
+        "Medium": {
+          "id": "sXER",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Video, color, silent\n4:55 min.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Video, color, silent\n4:55 min.",
+              "href": null
+            }
+          ]
+        },
+        "Exhibition Guide": {
+          "id": "wMc%5B",
+          "type": "files",
+          "files": []
+        },
+        "Tags": {
+          "id": "znns",
+          "type": "multi_select",
+          "multi_select": [
+            {
+              "id": "aaff8020-c421-40ea-8d23-1726af9a481f",
+              "name": "Video",
+              "color": "orange"
+            }
+          ]
+        },
+        "Thumbnail": {
+          "id": "~mnE",
+          "type": "files",
+          "files": [
+            {
+              "name": "RamiGeorge_2014_Untitled-Beyrouth_ref.png",
+              "type": "file",
+              "file": {
+                "url": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/3e582c95-8af4-4446-b81d-c27889c43e39/RamiGeorge_2014_Untitled-Beyrouth_ref.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220604%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220604T181349Z&X-Amz-Expires=3600&X-Amz-Signature=d06bb2ba2657d5a633598b36d31364bcd2e8a5c16a5f2d24e45dead17b922da8&X-Amz-SignedHeaders=host&x-id=GetObject",
+                "expiry_time": "2022-06-04T19:13:49.504Z"
+              }
+            }
+          ]
+        },
+        "Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Untitled (Beyrouth)",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": true,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Untitled (Beyrouth)",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/Untitled-Beyrouth-938429dfd7524c5ca8b07c536fafedf1"
+    },
+    {
+      "object": "page",
+      "id": "353a4894-3203-482f-979c-1d1e4fc0953f",
+      "created_time": "2022-05-23T16:14:00.000Z",
+      "last_edited_time": "2022-06-02T20:15:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "b84e74af-1a0b-495e-ac45-7fa25f54d686"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "b84e74af-1a0b-495e-ac45-7fa25f54d686"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "bee593ef-dc65-4282-911f-3dc5550e144a"
+      },
+      "archived": false,
+      "properties": {
+        "Homepage Assets": {
+          "id": "%3FXOH",
+          "type": "relation",
+          "relation": [
+            {
+              "id": "261f0294-5834-4a36-86ed-2817b7ef23a9"
+            }
+          ]
+        },
+        "Transcript": {
+          "id": "JXQO",
+          "type": "relation",
+          "relation": []
+        },
+        "Description": {
+          "id": "NaJA",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Exhibited in ",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Exhibited in ",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": "Modi Operandi\n",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": true,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Modi Operandi\n",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": "\nChicago Artists Coalition\n\nOrganized by Alexandria Eregbu\n\nProduction assistance from Colin Dickson",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "\nChicago Artists Coalition\n\nOrganized by Alexandria Eregbu\n\nProduction assistance from Colin Dickson",
+              "href": null
+            }
+          ]
+        },
+        "Press & Exhibition Catalogues": {
+          "id": "gTiv",
+          "type": "relation",
+          "relation": []
+        },
+        "Exhibition Publication": {
+          "id": "gjzR",
+          "type": "files",
+          "files": []
+        },
+        "Year": {
+          "id": "nOA%5B",
+          "type": "select",
+          "select": {
+            "id": "o@@D",
+            "name": "2015",
+            "color": "pink"
+          }
+        },
+        "Exhibitions & Screenings": {
+          "id": "n~_N",
+          "type": "relation",
+          "relation": []
+        },
+        "ID": {
+          "id": "sB~%60",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "07",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "07",
+              "href": null
+            }
+          ]
+        },
+        "Medium": {
+          "id": "sXER",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Reproduced family and found photos, free newsprint poster, wood pedestal",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Reproduced family and found photos, free newsprint poster, wood pedestal",
+              "href": null
+            }
+          ]
+        },
+        "Exhibition Guide": {
+          "id": "wMc%5B",
+          "type": "files",
+          "files": []
+        },
+        "Tags": {
+          "id": "znns",
+          "type": "multi_select",
+          "multi_select": [
+            {
+              "id": "bc0731aa-7b0c-49c2-9765-9132415acbaf",
+              "name": "Installation",
+              "color": "yellow"
+            }
+          ]
+        },
+        "Thumbnail": {
+          "id": "~mnE",
+          "type": "files",
+          "files": [
+            {
+              "name": "RamiGeorge_2015_Untitled-footnotes_ref.png",
+              "type": "file",
+              "file": {
+                "url": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/33c44a28-fd44-4229-8c98-5a2fda7b674b/RamiGeorge_2015_Untitled-footnotes_ref.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220604%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220604T181349Z&X-Amz-Expires=3600&X-Amz-Signature=142602399adec644ce784bde2a79b992c152cfad979b0593ffec5d7f31f6b21c&X-Amz-SignedHeaders=host&x-id=GetObject",
+                "expiry_time": "2022-06-04T19:13:49.503Z"
+              }
+            }
+          ]
+        },
+        "Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Untitled (footnotes)",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": true,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Untitled (footnotes)",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/Untitled-footnotes-353a48943203482f979c1d1e4fc0953f"
+    },
+    {
+      "object": "page",
+      "id": "2fac8769-1802-42e4-af4f-01097d577984",
+      "created_time": "2022-05-23T16:12:00.000Z",
+      "last_edited_time": "2022-06-02T20:12:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "b84e74af-1a0b-495e-ac45-7fa25f54d686"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "b84e74af-1a0b-495e-ac45-7fa25f54d686"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "bee593ef-dc65-4282-911f-3dc5550e144a"
+      },
+      "archived": false,
+      "properties": {
+        "Homepage Assets": {
+          "id": "%3FXOH",
+          "type": "relation",
+          "relation": [
+            {
+              "id": "2f15262f-581b-46d5-af20-9676e379adc5"
+            }
+          ]
+        },
+        "Transcript": {
+          "id": "JXQO",
+          "type": "relation",
+          "relation": []
+        },
+        "Description": {
+          "id": "NaJA",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Photos by Alina Wang",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Photos by Alina Wang",
+              "href": null
+            }
+          ]
+        },
+        "Press & Exhibition Catalogues": {
+          "id": "gTiv",
+          "type": "relation",
+          "relation": []
+        },
+        "Exhibition Publication": {
+          "id": "gjzR",
+          "type": "files",
+          "files": []
+        },
+        "Year": {
+          "id": "nOA%5B",
+          "type": "select",
+          "select": {
+            "id": "BNEJ",
+            "name": "2017",
+            "color": "brown"
+          }
+        },
+        "Exhibitions & Screenings": {
+          "id": "n~_N",
+          "type": "relation",
+          "relation": []
+        },
+        "ID": {
+          "id": "sB~%60",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "13",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "13",
+              "href": null
+            }
+          ]
+        },
+        "Medium": {
+          "id": "sXER",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Plywood, concrete blocks, reproduced family and found photos, publication ephemera, reproduced publication ephemera, black canvas, bleach",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Plywood, concrete blocks, reproduced family and found photos, publication ephemera, reproduced publication ephemera, black canvas, bleach",
+              "href": null
+            }
+          ]
+        },
+        "Exhibition Guide": {
+          "id": "wMc%5B",
+          "type": "files",
+          "files": []
+        },
+        "Tags": {
+          "id": "znns",
+          "type": "multi_select",
+          "multi_select": [
+            {
+              "id": "bc0731aa-7b0c-49c2-9765-9132415acbaf",
+              "name": "Installation",
+              "color": "yellow"
+            }
+          ]
+        },
+        "Thumbnail": {
+          "id": "~mnE",
+          "type": "files",
+          "files": [
+            {
+              "name": "RamiGeorge_2017_let-every-pansy-bloom_ref.png",
+              "type": "file",
+              "file": {
+                "url": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/c1420428-4383-4074-90b1-34c61d8ec644/RamiGeorge_2017_let-every-pansy-bloom_ref.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220604%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220604T181349Z&X-Amz-Expires=3600&X-Amz-Signature=b9547aba22dcf57222c799b4d7c4beaff949c36a8b98b2f02fced572552488c3&X-Amz-SignedHeaders=host&x-id=GetObject",
+                "expiry_time": "2022-06-04T19:13:49.504Z"
+              }
+            }
+          ]
+        },
+        "Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "let every pansy bloom",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": true,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "let every pansy bloom",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/let-every-pansy-bloom-2fac8769180242e4af4f01097d577984"
+    },
+    {
+      "object": "page",
+      "id": "5b8b5954-2aae-440c-9921-e3840a3b5157",
+      "created_time": "2022-05-23T16:05:00.000Z",
+      "last_edited_time": "2022-06-02T20:09:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "b84e74af-1a0b-495e-ac45-7fa25f54d686"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "b84e74af-1a0b-495e-ac45-7fa25f54d686"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "bee593ef-dc65-4282-911f-3dc5550e144a"
+      },
+      "archived": false,
+      "properties": {
+        "Homepage Assets": {
+          "id": "%3FXOH",
+          "type": "relation",
+          "relation": [
+            {
+              "id": "d198b93c-5b31-4eb5-9ab0-74bcce46b21b"
+            }
+          ]
+        },
+        "Transcript": {
+          "id": "JXQO",
+          "type": "relation",
+          "relation": [
+            {
+              "id": "d03d06de-63df-4674-b78f-4a38e065ba63"
+            }
+          ]
+        },
+        "Description": {
+          "id": "NaJA",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Voice of Sarah Lily Yassine\n\nWith footage contributed by Giovanni Khoury, Hanno Stecher, Krystel Medawar Khoury, Johanna Breiding, Joshua Mosley, Jason S. Hage, Nicole Massad, Sarah Lily Yassine, Shereen Sheikhhassan, Stephanie Richa\n\nCommissioned by Grand Union\n\nWith gratitude to Sharon Hayes",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Voice of Sarah Lily Yassine\n\nWith footage contributed by Giovanni Khoury, Hanno Stecher, Krystel Medawar Khoury, Johanna Breiding, Joshua Mosley, Jason S. Hage, Nicole Massad, Sarah Lily Yassine, Shereen Sheikhhassan, Stephanie Richa\n\nCommissioned by Grand Union\n\nWith gratitude to Sharon Hayes",
+              "href": null
+            }
+          ]
+        },
+        "Press & Exhibition Catalogues": {
+          "id": "gTiv",
+          "type": "relation",
+          "relation": []
+        },
+        "Exhibition Publication": {
+          "id": "gjzR",
+          "type": "files",
+          "files": []
+        },
+        "Year": {
+          "id": "nOA%5B",
+          "type": "select",
+          "select": {
+            "id": "or:P",
+            "name": "2018",
+            "color": "default"
+          }
+        },
+        "Exhibitions & Screenings": {
+          "id": "n~_N",
+          "type": "relation",
+          "relation": []
+        },
+        "ID": {
+          "id": "sB~%60",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "14",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "14",
+              "href": null
+            }
+          ]
+        },
+        "Medium": {
+          "id": "sXER",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "HD video, color, sound\n10:00 min.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "HD video, color, sound\n10:00 min.",
+              "href": null
+            }
+          ]
+        },
+        "Exhibition Guide": {
+          "id": "wMc%5B",
+          "type": "files",
+          "files": []
+        },
+        "Tags": {
+          "id": "znns",
+          "type": "multi_select",
+          "multi_select": [
+            {
+              "id": "aaff8020-c421-40ea-8d23-1726af9a481f",
+              "name": "Video",
+              "color": "orange"
+            }
+          ]
+        },
+        "Thumbnail": {
+          "id": "~mnE",
+          "type": "files",
+          "files": [
+            {
+              "name": "RamiGeorge_2018_Untitled-the-wars-in-Lebanon_ref.png",
+              "type": "file",
+              "file": {
+                "url": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/87dd75ff-5440-49ae-aec1-6d6e755c1e92/RamiGeorge_2018_Untitled-the-wars-in-Lebanon_ref.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220604%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220604T181349Z&X-Amz-Expires=3600&X-Amz-Signature=0e1f4a79524f2db6aea4cd99ffc42643277d0ee66037af1e9aece7ea679b9c10&X-Amz-SignedHeaders=host&x-id=GetObject",
+                "expiry_time": "2022-06-04T19:13:49.505Z"
+              }
+            }
+          ]
+        },
+        "Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Untitled (the wars in Lebanon)",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": true,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Untitled (the wars in Lebanon)",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/Untitled-the-wars-in-Lebanon-5b8b59542aae440c9921e3840a3b5157"
+    },
+    {
+      "object": "page",
+      "id": "df3c1f4a-ac48-4ac4-aab2-9485a53a11db",
+      "created_time": "2022-05-23T15:59:00.000Z",
+      "last_edited_time": "2022-06-02T20:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "b84e74af-1a0b-495e-ac45-7fa25f54d686"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "b84e74af-1a0b-495e-ac45-7fa25f54d686"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "bee593ef-dc65-4282-911f-3dc5550e144a"
+      },
+      "archived": false,
+      "properties": {
+        "Homepage Assets": {
+          "id": "%3FXOH",
+          "type": "relation",
+          "relation": [
+            {
+              "id": "9d8b3388-5fc9-4299-9642-f04e5e35f5e5"
+            }
+          ]
+        },
+        "Transcript": {
+          "id": "JXQO",
+          "type": "relation",
+          "relation": [
+            {
+              "id": "0785f690-6b28-4166-bb1d-5e6800454734"
+            }
+          ]
+        },
+        "Description": {
+          "id": "NaJA",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Voice of Cassidy Slaughter-Mason",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Voice of Cassidy Slaughter-Mason",
+              "href": null
+            }
+          ]
+        },
+        "Press & Exhibition Catalogues": {
+          "id": "gTiv",
+          "type": "relation",
+          "relation": []
+        },
+        "Exhibition Publication": {
+          "id": "gjzR",
+          "type": "files",
+          "files": []
+        },
+        "Year": {
+          "id": "nOA%5B",
+          "type": "select",
+          "select": {
+            "id": "o@@D",
+            "name": "2015",
+            "color": "pink"
+          }
+        },
+        "Exhibitions & Screenings": {
+          "id": "n~_N",
+          "type": "relation",
+          "relation": []
+        },
+        "ID": {
+          "id": "sB~%60",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "08",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "08",
+              "href": null
+            }
+          ]
+        },
+        "Medium": {
+          "id": "sXER",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "HD video, color, sound\n5:00 min.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "HD video, color, sound\n5:00 min.",
+              "href": null
+            }
+          ]
+        },
+        "Exhibition Guide": {
+          "id": "wMc%5B",
+          "type": "files",
+          "files": []
+        },
+        "Tags": {
+          "id": "znns",
+          "type": "multi_select",
+          "multi_select": [
+            {
+              "id": "aaff8020-c421-40ea-8d23-1726af9a481f",
+              "name": "Video",
+              "color": "orange"
+            }
+          ]
+        },
+        "Thumbnail": {
+          "id": "~mnE",
+          "type": "files",
+          "files": [
+            {
+              "name": "RamiGeorge_2015_Untitled-Saturday-October-16-1993_ref.png",
+              "type": "file",
+              "file": {
+                "url": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/4c0abc75-9d33-4ece-829e-c21911703559/RamiGeorge_2015_Untitled-Saturday-October-16-1993_ref.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220604%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220604T181349Z&X-Amz-Expires=3600&X-Amz-Signature=df0312e9e4c26412e153501111bd740a98209c3896bdfeb3ccc1473399d4f344&X-Amz-SignedHeaders=host&x-id=GetObject",
+                "expiry_time": "2022-06-04T19:13:49.517Z"
+              }
+            }
+          ]
+        },
+        "Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Untitled (Saturday, October 16, 1993)",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Untitled (Saturday, October 16, 1993)",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/Untitled-Saturday-October-16-1993-df3c1f4aac484ac4aab29485a53a11db"
+    },
+    {
+      "object": "page",
+      "id": "c804358d-e821-46b9-88a6-f46176a2f8a9",
+      "created_time": "2022-05-23T15:50:00.000Z",
+      "last_edited_time": "2022-06-02T20:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "b84e74af-1a0b-495e-ac45-7fa25f54d686"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "b84e74af-1a0b-495e-ac45-7fa25f54d686"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "bee593ef-dc65-4282-911f-3dc5550e144a"
+      },
+      "archived": false,
+      "properties": {
+        "Homepage Assets": {
+          "id": "%3FXOH",
+          "type": "relation",
+          "relation": [
+            {
+              "id": "7a781b26-9b29-439d-8802-66853abc071b"
+            }
+          ]
+        },
+        "Transcript": {
+          "id": "JXQO",
+          "type": "relation",
+          "relation": [
+            {
+              "id": "830aa948-ec7f-406e-acd0-68595e71bdfa"
+            }
+          ]
+        },
+        "Description": {
+          "id": "NaJA",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Voice of Sanaz Sohrabi",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Voice of Sanaz Sohrabi",
+              "href": null
+            }
+          ]
+        },
+        "Press & Exhibition Catalogues": {
+          "id": "gTiv",
+          "type": "relation",
+          "relation": []
+        },
+        "Exhibition Publication": {
+          "id": "gjzR",
+          "type": "files",
+          "files": []
+        },
+        "Year": {
+          "id": "nOA%5B",
+          "type": "select",
+          "select": {
+            "id": "P{UW",
+            "name": "2016",
+            "color": "gray"
+          }
+        },
+        "Exhibitions & Screenings": {
+          "id": "n~_N",
+          "type": "relation",
+          "relation": []
+        },
+        "ID": {
+          "id": "sB~%60",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "09",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "09",
+              "href": null
+            }
+          ]
+        },
+        "Medium": {
+          "id": "sXER",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "HD video, color, sound\n5:04 min.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "HD video, color, sound\n5:04 min.",
+              "href": null
+            }
+          ]
+        },
+        "Exhibition Guide": {
+          "id": "wMc%5B",
+          "type": "files",
+          "files": []
+        },
+        "Tags": {
+          "id": "znns",
+          "type": "multi_select",
+          "multi_select": [
+            {
+              "id": "aaff8020-c421-40ea-8d23-1726af9a481f",
+              "name": "Video",
+              "color": "orange"
+            }
+          ]
+        },
+        "Thumbnail": {
+          "id": "~mnE",
+          "type": "files",
+          "files": [
+            {
+              "name": "RamiGeorge_2016_my-mother-and-her-sister-always-argued-in-arabic-i-never-understood_ref.png",
+              "type": "file",
+              "file": {
+                "url": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/dcc0cca3-a244-4531-9506-1b6253bbef33/RamiGeorge_2016_my-mother-and-her-sister-always-argued-in-arabic-i-never-understood_ref.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220604%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220604T181349Z&X-Amz-Expires=3600&X-Amz-Signature=2da67f3668da5ad87e57c971f301b52a4a9fd048dfa8330e756439068d78f9f3&X-Amz-SignedHeaders=host&x-id=GetObject",
+                "expiry_time": "2022-06-04T19:13:49.504Z"
+              }
+            }
+          ]
+        },
+        "Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "my mother and her sister always argued in arabic, i never understood what was said",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": true,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "my mother and her sister always argued in arabic, i never understood what was said",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/my-mother-and-her-sister-always-argued-in-arabic-i-never-understood-what-was-said-c804358de82146b988a6f46176a2f8a9"
+    },
+    {
+      "object": "page",
+      "id": "741499d7-6e6c-4ae8-a39b-42fbcf367c79",
+      "created_time": "2022-05-23T15:47:00.000Z",
+      "last_edited_time": "2022-06-02T20:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "b84e74af-1a0b-495e-ac45-7fa25f54d686"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "b84e74af-1a0b-495e-ac45-7fa25f54d686"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "bee593ef-dc65-4282-911f-3dc5550e144a"
+      },
+      "archived": false,
+      "properties": {
+        "Homepage Assets": {
+          "id": "%3FXOH",
+          "type": "relation",
+          "relation": [
+            {
+              "id": "928a70d4-4b3b-49ad-b489-ef9410fa1d2a"
+            }
+          ]
+        },
+        "Transcript": {
+          "id": "JXQO",
+          "type": "relation",
+          "relation": []
+        },
+        "Description": {
+          "id": "NaJA",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Footage collected from Google Maps users Abod Abed, BMW X6, Eid Abu Muhammad, Hussam El-Madhoun, Ibrahem Nabeel, Jussi Koivunoro, Majd Alhaj, Moha Ali, Saed Samara, Yahya Khaled",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Footage collected from Google Maps users Abod Abed, BMW X6, Eid Abu Muhammad, Hussam El-Madhoun, Ibrahem Nabeel, Jussi Koivunoro, Majd Alhaj, Moha Ali, Saed Samara, Yahya Khaled",
+              "href": null
+            }
+          ]
+        },
+        "Press & Exhibition Catalogues": {
+          "id": "gTiv",
+          "type": "relation",
+          "relation": []
+        },
+        "Exhibition Publication": {
+          "id": "gjzR",
+          "type": "files",
+          "files": []
+        },
+        "Year": {
+          "id": "nOA%5B",
+          "type": "select",
+          "select": {
+            "id": "P{UW",
+            "name": "2016",
+            "color": "gray"
+          }
+        },
+        "Exhibitions & Screenings": {
+          "id": "n~_N",
+          "type": "relation",
+          "relation": []
+        },
+        "ID": {
+          "id": "sB~%60",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "10",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "10",
+              "href": null
+            }
+          ]
+        },
+        "Medium": {
+          "id": "sXER",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "HD video, color, silent\n15:00 min.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "HD video, color, silent\n15:00 min.",
+              "href": null
+            }
+          ]
+        },
+        "Exhibition Guide": {
+          "id": "wMc%5B",
+          "type": "files",
+          "files": []
+        },
+        "Tags": {
+          "id": "znns",
+          "type": "multi_select",
+          "multi_select": [
+            {
+              "id": "aaff8020-c421-40ea-8d23-1726af9a481f",
+              "name": "Video",
+              "color": "orange"
+            }
+          ]
+        },
+        "Thumbnail": {
+          "id": "~mnE",
+          "type": "files",
+          "files": [
+            {
+              "name": "RamiGeorge_2016_virtually-every-site-one-can-visit-virtually-gaza-strip_ref.png",
+              "type": "file",
+              "file": {
+                "url": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/e4f5d530-9923-4dff-9a27-7cd0838cd9fc/RamiGeorge_2016_virtually-every-site-one-can-visit-virtually-gaza-strip_ref.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220604%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220604T181349Z&X-Amz-Expires=3600&X-Amz-Signature=028736c04352482dd8fcd15111e5b0004f90d7a010d2a7be4213ca4b12e8a7b0&X-Amz-SignedHeaders=host&x-id=GetObject",
+                "expiry_time": "2022-06-04T19:13:49.517Z"
+              }
+            }
+          ]
+        },
+        "Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "virtually every site one can visit virtually: gaza strip",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": true,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "virtually every site one can visit virtually: gaza strip",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/virtually-every-site-one-can-visit-virtually-gaza-strip-741499d76e6c4ae8a39b42fbcf367c79"
+    },
+    {
+      "object": "page",
+      "id": "d212e279-2686-49e4-9afc-ce383d6e371a",
+      "created_time": "2022-05-23T15:41:00.000Z",
+      "last_edited_time": "2022-06-02T20:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "b84e74af-1a0b-495e-ac45-7fa25f54d686"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "b84e74af-1a0b-495e-ac45-7fa25f54d686"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "bee593ef-dc65-4282-911f-3dc5550e144a"
+      },
+      "archived": false,
+      "properties": {
+        "Homepage Assets": {
+          "id": "%3FXOH",
+          "type": "relation",
+          "relation": [
+            {
+              "id": "644080e9-d4ff-427c-abf6-23ca70cbede3"
+            }
+          ]
+        },
+        "Transcript": {
+          "id": "JXQO",
+          "type": "relation",
+          "relation": []
+        },
+        "Description": {
+          "id": "NaJA",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Footage contributed by Ali, Krystel Medawar Khoury, Nathalie Kreidy ElKhoury, Rasheed Jalloul, Vrouyr Joubanian, Wassim Bassil",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Footage contributed by Ali, Krystel Medawar Khoury, Nathalie Kreidy ElKhoury, Rasheed Jalloul, Vrouyr Joubanian, Wassim Bassil",
+              "href": null
+            }
+          ]
+        },
+        "Press & Exhibition Catalogues": {
+          "id": "gTiv",
+          "type": "relation",
+          "relation": []
+        },
+        "Exhibition Publication": {
+          "id": "gjzR",
+          "type": "files",
+          "files": []
+        },
+        "Year": {
+          "id": "nOA%5B",
+          "type": "select",
+          "select": {
+            "id": "P{UW",
+            "name": "2016",
+            "color": "gray"
+          }
+        },
+        "Exhibitions & Screenings": {
+          "id": "n~_N",
+          "type": "relation",
+          "relation": []
+        },
+        "ID": {
+          "id": "sB~%60",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "11",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "11",
+              "href": null
+            }
+          ]
+        },
+        "Medium": {
+          "id": "sXER",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "HD video, color, sound\n10:00 min.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "HD video, color, sound\n10:00 min.",
+              "href": null
+            }
+          ]
+        },
+        "Exhibition Guide": {
+          "id": "wMc%5B",
+          "type": "files",
+          "files": []
+        },
+        "Tags": {
+          "id": "znns",
+          "type": "multi_select",
+          "multi_select": [
+            {
+              "id": "aaff8020-c421-40ea-8d23-1726af9a481f",
+              "name": "Video",
+              "color": "orange"
+            }
+          ]
+        },
+        "Thumbnail": {
+          "id": "~mnE",
+          "type": "files",
+          "files": [
+            {
+              "name": "RamiGeorge_2016_the-mediterranean-sea-from-the-banks-of-lebanon-re-ali-krystel_ref.png",
+              "type": "file",
+              "file": {
+                "url": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/f2a734e2-c3b7-4f91-8d3d-e8ac81a36fc2/RamiGeorge_2016_the-mediterranean-sea-from-the-banks-of-lebanon-re-ali-krystel_ref.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220604%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220604T181349Z&X-Amz-Expires=3600&X-Amz-Signature=322f009ce29cd91e95a794e4aaf3bbc77228b8149346a0ce73b7fafaad96add2&X-Amz-SignedHeaders=host&x-id=GetObject",
+                "expiry_time": "2022-06-04T19:13:49.504Z"
+              }
+            }
+          ]
+        },
+        "Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "the mediterranean sea from the banks of lebanon, re: ali, krystel, nathalie, rasheed, visso, vrouyr",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": true,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "the mediterranean sea from the banks of lebanon, re: ali, krystel, nathalie, rasheed, visso, vrouyr",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/the-mediterranean-sea-from-the-banks-of-lebanon-re-ali-krystel-nathalie-rasheed-visso-vrouyr-d212e279268649e49afcce383d6e371a"
+    },
+    {
+      "object": "page",
+      "id": "0b93d421-9bdc-46c3-8229-98b09920553f",
+      "created_time": "2022-05-23T15:37:00.000Z",
+      "last_edited_time": "2022-06-02T20:08:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "b84e74af-1a0b-495e-ac45-7fa25f54d686"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "b84e74af-1a0b-495e-ac45-7fa25f54d686"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "bee593ef-dc65-4282-911f-3dc5550e144a"
+      },
+      "archived": false,
+      "properties": {
+        "Homepage Assets": {
+          "id": "%3FXOH",
+          "type": "relation",
+          "relation": [
+            {
+              "id": "fbfd904e-3d29-44b7-8ce1-c0f5912b8970"
+            }
+          ]
+        },
+        "Transcript": {
+          "id": "JXQO",
+          "type": "relation",
+          "relation": []
+        },
+        "Description": {
+          "id": "NaJA",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Production assistance from Willie Udell \n\nPhotos by Alina Wang",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Production assistance from Willie Udell \n\nPhotos by Alina Wang",
+              "href": null
+            }
+          ]
+        },
+        "Press & Exhibition Catalogues": {
+          "id": "gTiv",
+          "type": "relation",
+          "relation": []
+        },
+        "Exhibition Publication": {
+          "id": "gjzR",
+          "type": "files",
+          "files": []
+        },
+        "Year": {
+          "id": "nOA%5B",
+          "type": "select",
+          "select": {
+            "id": "or:P",
+            "name": "2018",
+            "color": "default"
+          }
+        },
+        "Exhibitions & Screenings": {
+          "id": "n~_N",
+          "type": "relation",
+          "relation": []
+        },
+        "ID": {
+          "id": "sB~%60",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "16",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "16",
+              "href": null
+            }
+          ]
+        },
+        "Medium": {
+          "id": "sXER",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Plywood, wood, vinyl sheeting, black house paint, reproduced family and found photos, reproduced publication ephemera",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Plywood, wood, vinyl sheeting, black house paint, reproduced family and found photos, reproduced publication ephemera",
+              "href": null
+            }
+          ]
+        },
+        "Exhibition Guide": {
+          "id": "wMc%5B",
+          "type": "files",
+          "files": []
+        },
+        "Tags": {
+          "id": "znns",
+          "type": "multi_select",
+          "multi_select": [
+            {
+              "id": "bc0731aa-7b0c-49c2-9765-9132415acbaf",
+              "name": "Installation",
+              "color": "yellow"
+            }
+          ]
+        },
+        "Thumbnail": {
+          "id": "~mnE",
+          "type": "files",
+          "files": [
+            {
+              "name": "RamiGeorge_2018_an-ode-to-three_ref.png",
+              "type": "file",
+              "file": {
+                "url": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/1b88f0b3-f4f9-48c2-a215-d277703fddac/RamiGeorge_2018_an-ode-to-three_ref.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220604%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220604T181349Z&X-Amz-Expires=3600&X-Amz-Signature=344e58482f254834f66f2babf9c21e2bc1d6cb3375dbcacdd574d469c1928f96&X-Amz-SignedHeaders=host&x-id=GetObject",
+                "expiry_time": "2022-06-04T19:13:49.504Z"
+              }
+            }
+          ]
+        },
+        "Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "an ode to three",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "an ode to three",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/an-ode-to-three-0b93d4219bdc46c3822998b09920553f"
+    },
+    {
+      "object": "page",
+      "id": "4998e790-56f3-4318-8189-f2e0978a62de",
+      "created_time": "2022-05-23T14:54:00.000Z",
+      "last_edited_time": "2022-06-02T20:07:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "b84e74af-1a0b-495e-ac45-7fa25f54d686"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "b84e74af-1a0b-495e-ac45-7fa25f54d686"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "bee593ef-dc65-4282-911f-3dc5550e144a"
+      },
+      "archived": false,
+      "properties": {
+        "Homepage Assets": {
+          "id": "%3FXOH",
+          "type": "relation",
+          "relation": [
+            {
+              "id": "a0e0d6d1-b646-4ff9-9027-44af77a9876a"
+            }
+          ]
+        },
+        "Transcript": {
+          "id": "JXQO",
+          "type": "relation",
+          "relation": []
+        },
+        "Description": {
+          "id": "NaJA",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Material sourced from the John J. Wilcox, Jr. Archives; with gratitude to John Anderies",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Material sourced from the John J. Wilcox, Jr. Archives; with gratitude to John Anderies",
+              "href": null
+            }
+          ]
+        },
+        "Press & Exhibition Catalogues": {
+          "id": "gTiv",
+          "type": "relation",
+          "relation": []
+        },
+        "Exhibition Publication": {
+          "id": "gjzR",
+          "type": "files",
+          "files": []
+        },
+        "Year": {
+          "id": "nOA%5B",
+          "type": "select",
+          "select": {
+            "id": "UmQU",
+            "name": "2019",
+            "color": "green"
+          }
+        },
+        "Exhibitions & Screenings": {
+          "id": "n~_N",
+          "type": "relation",
+          "relation": []
+        },
+        "ID": {
+          "id": "sB~%60",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "17",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "17",
+              "href": null
+            }
+          ]
+        },
+        "Medium": {
+          "id": "sXER",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "HD video, color, silent\n14:10 min.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "HD video, color, silent\n14:10 min.",
+              "href": null
+            }
+          ]
+        },
+        "Exhibition Guide": {
+          "id": "wMc%5B",
+          "type": "files",
+          "files": []
+        },
+        "Tags": {
+          "id": "znns",
+          "type": "multi_select",
+          "multi_select": [
+            {
+              "id": "aaff8020-c421-40ea-8d23-1726af9a481f",
+              "name": "Video",
+              "color": "orange"
+            }
+          ]
+        },
+        "Thumbnail": {
+          "id": "~mnE",
+          "type": "files",
+          "files": [
+            {
+              "name": "RamiGeorge_2019_Untitled-Donna-Mae-Stemmer_ref.png",
+              "type": "file",
+              "file": {
+                "url": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/4d8f75d2-4122-4854-b86d-49ae746f8c4e/RamiGeorge_2019_Untitled-Donna-Mae-Stemmer_ref.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220604%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220604T181349Z&X-Amz-Expires=3600&X-Amz-Signature=40df63fb2a47bec2588d9a0e5a50f6b76d88477bddd92919cd014053931c71a2&X-Amz-SignedHeaders=host&x-id=GetObject",
+                "expiry_time": "2022-06-04T19:13:49.505Z"
+              }
+            }
+          ]
+        },
+        "Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Untitled (Donna Mae Stemmer)",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Untitled (Donna Mae Stemmer)",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/Untitled-Donna-Mae-Stemmer-4998e79056f343188189f2e0978a62de"
+    },
+    {
+      "object": "page",
+      "id": "33415679-c196-4eb7-9860-8b66a31b20e8",
+      "created_time": "2022-05-21T01:53:00.000Z",
+      "last_edited_time": "2022-06-02T20:13:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "b84e74af-1a0b-495e-ac45-7fa25f54d686"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "b84e74af-1a0b-495e-ac45-7fa25f54d686"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "bee593ef-dc65-4282-911f-3dc5550e144a"
+      },
+      "archived": false,
+      "properties": {
+        "Homepage Assets": {
+          "id": "%3FXOH",
+          "type": "relation",
+          "relation": [
+            {
+              "id": "26a0f921-7ba5-4180-9044-9cb940b974ba"
+            }
+          ]
+        },
+        "Transcript": {
+          "id": "JXQO",
+          "type": "relation",
+          "relation": []
+        },
+        "Description": {
+          "id": "NaJA",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Two-person exhibition with Alexandria Eregbu\n\nRoots & Culture Contemporary Art Center\n\nPhotos by Robert Chase Heishman",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Two-person exhibition with Alexandria Eregbu\n\nRoots & Culture Contemporary Art Center\n\nPhotos by Robert Chase Heishman",
+              "href": null
+            }
+          ]
+        },
+        "Press & Exhibition Catalogues": {
+          "id": "gTiv",
+          "type": "relation",
+          "relation": []
+        },
+        "Exhibition Publication": {
+          "id": "gjzR",
+          "type": "files",
+          "files": []
+        },
+        "Year": {
+          "id": "nOA%5B",
+          "type": "select",
+          "select": {
+            "id": "P{UW",
+            "name": "2016",
+            "color": "gray"
+          }
+        },
+        "Exhibitions & Screenings": {
+          "id": "n~_N",
+          "type": "relation",
+          "relation": []
+        },
+        "ID": {
+          "id": "sB~%60",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "12",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "12",
+              "href": null
+            }
+          ]
+        },
+        "Medium": {
+          "id": "sXER",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Videos on monitors, video on iPad, inkjet print, framed photo shot by Hamde Abu Rahma, bleached fabric, wood\n\nInkjet print: 44 x 72 in\n111.76 x 182.88 cm\n\nFramed photo: 31 x 41 in\n78.74 x 104.14 cm",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Videos on monitors, video on iPad, inkjet print, framed photo shot by Hamde Abu Rahma, bleached fabric, wood\n\nInkjet print: 44 x 72 in\n111.76 x 182.88 cm\n\nFramed photo: 31 x 41 in\n78.74 x 104.14 cm",
+              "href": null
+            }
+          ]
+        },
+        "Exhibition Guide": {
+          "id": "wMc%5B",
+          "type": "files",
+          "files": []
+        },
+        "Tags": {
+          "id": "znns",
+          "type": "multi_select",
+          "multi_select": [
+            {
+              "id": "bc0731aa-7b0c-49c2-9765-9132415acbaf",
+              "name": "Installation",
+              "color": "yellow"
+            }
+          ]
+        },
+        "Thumbnail": {
+          "id": "~mnE",
+          "type": "files",
+          "files": [
+            {
+              "name": "RamiGeorge_2016_tide-tithe_ref.png",
+              "type": "file",
+              "file": {
+                "url": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/ed4de0bc-fdc6-4064-be2c-10c6a6d4023d/RamiGeorge_2016_tide-tithe_ref.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220604%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220604T181349Z&X-Amz-Expires=3600&X-Amz-Signature=6f55ac60d55d970c3c84ac723cb864da6c4161080aa78ad2e464694fd858f6b4&X-Amz-SignedHeaders=host&x-id=GetObject",
+                "expiry_time": "2022-06-04T19:13:49.505Z"
+              }
+            }
+          ]
+        },
+        "Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "tide/tithe",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "tide/tithe",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/tide-tithe-33415679c1964eb798608b66a31b20e8"
+    },
+    {
+      "object": "page",
+      "id": "03584dc6-388a-45e4-9003-c2a631c28062",
+      "created_time": "2022-05-18T05:11:00.000Z",
+      "last_edited_time": "2022-06-02T20:09:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "49d9e904-066c-4dd2-bfc5-3cb57cf2e448"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "b84e74af-1a0b-495e-ac45-7fa25f54d686"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "bee593ef-dc65-4282-911f-3dc5550e144a"
+      },
+      "archived": false,
+      "properties": {
+        "Homepage Assets": {
+          "id": "%3FXOH",
+          "type": "relation",
+          "relation": [
+            {
+              "id": "aaa01fda-350c-4e31-b15f-cca131cfa98d"
+            }
+          ]
+        },
+        "Transcript": {
+          "id": "JXQO",
+          "type": "relation",
+          "relation": []
+        },
+        "Description": {
+          "id": "NaJA",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Two-person exhibiton with Tako Taal\n\nGrand Union\n\nOrganized by Seán Elder\n\nProduction assistance from Matthew James Moore\n\nPhotos by Patrick Dandy",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Two-person exhibiton with Tako Taal\n\nGrand Union\n\nOrganized by Seán Elder\n\nProduction assistance from Matthew James Moore\n\nPhotos by Patrick Dandy",
+              "href": null
+            }
+          ]
+        },
+        "Press & Exhibition Catalogues": {
+          "id": "gTiv",
+          "type": "relation",
+          "relation": []
+        },
+        "Exhibition Publication": {
+          "id": "gjzR",
+          "type": "files",
+          "files": []
+        },
+        "Year": {
+          "id": "nOA%5B",
+          "type": "select",
+          "select": {
+            "id": "or:P",
+            "name": "2018",
+            "color": "default"
+          }
+        },
+        "Exhibitions & Screenings": {
+          "id": "n~_N",
+          "type": "relation",
+          "relation": []
+        },
+        "ID": {
+          "id": "sB~%60",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "15",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "15",
+              "href": null
+            }
+          ]
+        },
+        "Medium": {
+          "id": "sXER",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Projected video, wood, plastic sheeting, reproduced family photos, concrete blocks",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Projected video, wood, plastic sheeting, reproduced family photos, concrete blocks",
+              "href": null
+            }
+          ]
+        },
+        "Exhibition Guide": {
+          "id": "wMc%5B",
+          "type": "files",
+          "files": []
+        },
+        "Tags": {
+          "id": "znns",
+          "type": "multi_select",
+          "multi_select": [
+            {
+              "id": "bc0731aa-7b0c-49c2-9765-9132415acbaf",
+              "name": "Installation",
+              "color": "yellow"
+            }
+          ]
+        },
+        "Thumbnail": {
+          "id": "~mnE",
+          "type": "files",
+          "files": [
+            {
+              "name": "RamiGeorge_2018_Inherited-Premises_ref.png",
+              "type": "file",
+              "file": {
+                "url": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/98d214cc-3cbd-41c2-95c1-9b2ece571ccd/RamiGeorge_2018_Inherited-Premises_ref.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220604%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220604T181349Z&X-Amz-Expires=3600&X-Amz-Signature=9d406e7a0b802aae3e447234b92cc1765c54dacee2aed5ca8ebc78d97bdd0fc5&X-Amz-SignedHeaders=host&x-id=GetObject",
+                "expiry_time": "2022-06-04T19:13:49.504Z"
+              }
+            }
+          ]
+        },
+        "Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Inherited Premises",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": true,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Inherited Premises",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/Inherited-Premises-03584dc6388a45e49003c2a631c28062"
+    },
+    {
+      "object": "page",
+      "id": "5dcaed1a-b4d6-4245-97b4-b3b3265a4aa2",
+      "created_time": "2022-05-18T04:54:00.000Z",
+      "last_edited_time": "2022-06-02T20:06:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "49d9e904-066c-4dd2-bfc5-3cb57cf2e448"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "b84e74af-1a0b-495e-ac45-7fa25f54d686"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "bee593ef-dc65-4282-911f-3dc5550e144a"
+      },
+      "archived": false,
+      "properties": {
+        "Homepage Assets": {
+          "id": "%3FXOH",
+          "type": "relation",
+          "relation": [
+            {
+              "id": "b2ad089a-6a59-4f52-a843-c91e5f0b3d9e"
+            }
+          ]
+        },
+        "Transcript": {
+          "id": "JXQO",
+          "type": "relation",
+          "relation": []
+        },
+        "Description": {
+          "id": "NaJA",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Exhibited in ",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Exhibited in ",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": "Analogous to Our Own\n\n",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": true,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Analogous to Our Own\n\n",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": "Icebox Project Space\n\nOrganized by Sara O'Keeffe\n\nMaterial sourced from John J. Wilcox, Jr. Archives; with gratitude to John Anderies\n\nProduction assistance from Willie Udell\n\nPhotos by Gordon Stillman",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Icebox Project Space\n\nOrganized by Sara O'Keeffe\n\nMaterial sourced from John J. Wilcox, Jr. Archives; with gratitude to John Anderies\n\nProduction assistance from Willie Udell\n\nPhotos by Gordon Stillman",
+              "href": null
+            }
+          ]
+        },
+        "Press & Exhibition Catalogues": {
+          "id": "gTiv",
+          "type": "relation",
+          "relation": []
+        },
+        "Exhibition Publication": {
+          "id": "gjzR",
+          "type": "files",
+          "files": []
+        },
+        "Year": {
+          "id": "nOA%5B",
+          "type": "select",
+          "select": {
+            "id": "UmQU",
+            "name": "2019",
+            "color": "green"
+          }
+        },
+        "Exhibitions & Screenings": {
+          "id": "n~_N",
+          "type": "relation",
+          "relation": []
+        },
+        "ID": {
+          "id": "sB~%60",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "18",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "18",
+              "href": null
+            }
+          ]
+        },
+        "Medium": {
+          "id": "sXER",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Plywood, wood, plastic buckets, poured concrete, black and white house paint, reproduced archival material, projected video, concrete blocks, free Risograph poster",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Plywood, wood, plastic buckets, poured concrete, black and white house paint, reproduced archival material, projected video, concrete blocks, free Risograph poster",
+              "href": null
+            }
+          ]
+        },
+        "Exhibition Guide": {
+          "id": "wMc%5B",
+          "type": "files",
+          "files": []
+        },
+        "Tags": {
+          "id": "znns",
+          "type": "multi_select",
+          "multi_select": [
+            {
+              "id": "bc0731aa-7b0c-49c2-9765-9132415acbaf",
+              "name": "Installation",
+              "color": "yellow"
+            }
+          ]
+        },
+        "Thumbnail": {
+          "id": "~mnE",
+          "type": "files",
+          "files": [
+            {
+              "name": "RamiGeorge_2019_brotherly-love-sisterly-affection_ref.png",
+              "type": "file",
+              "file": {
+                "url": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/e6093504-8931-4a44-90ac-cb913382804b/RamiGeorge_2019_brotherly-love-sisterly-affection_ref.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220604%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220604T181349Z&X-Amz-Expires=3600&X-Amz-Signature=0eb92becccd21c2b586107962d9cd630ad5f442ab3d3122a1fc53579a3208a3c&X-Amz-SignedHeaders=host&x-id=GetObject",
+                "expiry_time": "2022-06-04T19:13:49.503Z"
+              }
+            }
+          ]
+        },
+        "Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "brotherly love, sisterly affection",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": true,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "brotherly love, sisterly affection",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/brotherly-love-sisterly-affection-5dcaed1ab4d6424597b4b3b3265a4aa2"
+    },
+    {
+      "object": "page",
+      "id": "7587842f-a604-4775-9420-09d71fa7c24d",
+      "created_time": "2022-05-18T01:57:00.000Z",
+      "last_edited_time": "2022-06-02T20:16:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "b84e74af-1a0b-495e-ac45-7fa25f54d686"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "b84e74af-1a0b-495e-ac45-7fa25f54d686"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "bee593ef-dc65-4282-911f-3dc5550e144a"
+      },
+      "archived": false,
+      "properties": {
+        "Homepage Assets": {
+          "id": "%3FXOH",
+          "type": "relation",
+          "relation": [
+            {
+              "id": "a152eb01-3142-4477-b441-895128cd6b71"
+            }
+          ]
+        },
+        "Transcript": {
+          "id": "JXQO",
+          "type": "relation",
+          "relation": [
+            {
+              "id": "8fc8d3ff-4d70-4a3a-8b2e-678b64a6ed32"
+            }
+          ]
+        },
+        "Description": {
+          "id": "NaJA",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "With gratitude to Frederic Moffet & Irina Botea Bucan",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "With gratitude to Frederic Moffet & Irina Botea Bucan",
+              "href": null
+            }
+          ]
+        },
+        "Press & Exhibition Catalogues": {
+          "id": "gTiv",
+          "type": "relation",
+          "relation": []
+        },
+        "Exhibition Publication": {
+          "id": "gjzR",
+          "type": "files",
+          "files": []
+        },
+        "Year": {
+          "id": "nOA%5B",
+          "type": "select",
+          "select": {
+            "id": "d5fcf3e7-8075-42f1-979b-18725f7384ea",
+            "name": "2012",
+            "color": "yellow"
+          }
+        },
+        "Exhibitions & Screenings": {
+          "id": "n~_N",
+          "type": "relation",
+          "relation": []
+        },
+        "ID": {
+          "id": "sB~%60",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "04",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "04",
+              "href": null
+            }
+          ]
+        },
+        "Medium": {
+          "id": "sXER",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Video, color, sound\n8:13 min.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Video, color, sound\n8:13 min.",
+              "href": null
+            }
+          ]
+        },
+        "Exhibition Guide": {
+          "id": "wMc%5B",
+          "type": "files",
+          "files": []
+        },
+        "Tags": {
+          "id": "znns",
+          "type": "multi_select",
+          "multi_select": [
+            {
+              "id": "aaff8020-c421-40ea-8d23-1726af9a481f",
+              "name": "Video",
+              "color": "orange"
+            }
+          ]
+        },
+        "Thumbnail": {
+          "id": "~mnE",
+          "type": "files",
+          "files": [
+            {
+              "name": "RamiGeorge_2012_Untitled-Stanley-my-second-lover_ref.png",
+              "type": "file",
+              "file": {
+                "url": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/40e2f65d-0c94-48fe-bd91-33e21e6f045e/RamiGeorge_2012_Untitled-Stanley-my-second-lover_ref.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220604%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220604T181349Z&X-Amz-Expires=3600&X-Amz-Signature=b56c23daeb0c7ce456201d6d06bd21ece898247c239f77ecc024222c046dd124&X-Amz-SignedHeaders=host&x-id=GetObject",
+                "expiry_time": "2022-06-04T19:13:49.505Z"
+              }
+            }
+          ]
+        },
+        "Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Untitled (Stanley, my second lover)",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Untitled (Stanley, my second lover)",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/Untitled-Stanley-my-second-lover-7587842fa6044775942009d71fa7c24d"
+    },
+    {
+      "object": "page",
+      "id": "93d29f7d-6615-4e9b-bb82-84e958ef7a46",
+      "created_time": "2022-05-18T01:24:00.000Z",
+      "last_edited_time": "2022-06-02T20:05:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "b84e74af-1a0b-495e-ac45-7fa25f54d686"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "b84e74af-1a0b-495e-ac45-7fa25f54d686"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "bee593ef-dc65-4282-911f-3dc5550e144a"
+      },
+      "archived": false,
+      "properties": {
+        "Homepage Assets": {
+          "id": "%3FXOH",
+          "type": "relation",
+          "relation": [
+            {
+              "id": "8fec9180-0b9f-4db3-8bea-b9d2c634e6f3"
+            }
+          ]
+        },
+        "Transcript": {
+          "id": "JXQO",
+          "type": "relation",
+          "relation": [
+            {
+              "id": "4e43a79c-5b6b-41b9-a255-7ef541f7f742"
+            }
+          ]
+        },
+        "Description": {
+          "id": "NaJA",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Voice of Jack Marmorstein\n\nWith gratitude to Carolyn Lazard",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Voice of Jack Marmorstein\n\nWith gratitude to Carolyn Lazard",
+              "href": null
+            }
+          ]
+        },
+        "Press & Exhibition Catalogues": {
+          "id": "gTiv",
+          "type": "relation",
+          "relation": []
+        },
+        "Exhibition Publication": {
+          "id": "gjzR",
+          "type": "files",
+          "files": []
+        },
+        "Year": {
+          "id": "nOA%5B",
+          "type": "select",
+          "select": {
+            "id": "ae9c224d-beb4-4596-9334-be2c58ddc3d0",
+            "name": "2020",
+            "color": "purple"
+          }
+        },
+        "Exhibitions & Screenings": {
+          "id": "n~_N",
+          "type": "relation",
+          "relation": []
+        },
+        "ID": {
+          "id": "sB~%60",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "19",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "19",
+              "href": null
+            }
+          ]
+        },
+        "Medium": {
+          "id": "sXER",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "HD video, color, sound\n20:31 min.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "HD video, color, sound\n20:31 min.",
+              "href": null
+            }
+          ]
+        },
+        "Exhibition Guide": {
+          "id": "wMc%5B",
+          "type": "files",
+          "files": []
+        },
+        "Tags": {
+          "id": "znns",
+          "type": "multi_select",
+          "multi_select": [
+            {
+              "id": "aaff8020-c421-40ea-8d23-1726af9a481f",
+              "name": "Video",
+              "color": "orange"
+            }
+          ]
+        },
+        "Thumbnail": {
+          "id": "~mnE",
+          "type": "files",
+          "files": [
+            {
+              "name": "RamiGeorge_2020_Untitled-with-my-father_ref.png",
+              "type": "file",
+              "file": {
+                "url": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/225ff059-41b2-4bfb-b731-48d0a67d5cb8/RamiGeorge_2020_Untitled-with-my-father_ref.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220604%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220604T181349Z&X-Amz-Expires=3600&X-Amz-Signature=ac9c642192bf1a480bf3ff3fd3b8a5f0fe8e4def8d682d8b8aaadd697a392b9e&X-Amz-SignedHeaders=host&x-id=GetObject",
+                "expiry_time": "2022-06-04T19:13:49.504Z"
+              }
+            }
+          ]
+        },
+        "Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Untitled (with my father)",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": true,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Untitled (with my father)",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/Untitled-with-my-father-93d29f7d66154e9bbb8284e958ef7a46"
+    },
+    {
+      "object": "page",
+      "id": "a1fbbb7b-f19c-4757-a0ab-23c583637247",
+      "created_time": "2022-05-18T01:20:00.000Z",
+      "last_edited_time": "2022-06-02T20:05:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "b84e74af-1a0b-495e-ac45-7fa25f54d686"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "b84e74af-1a0b-495e-ac45-7fa25f54d686"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "bee593ef-dc65-4282-911f-3dc5550e144a"
+      },
+      "archived": false,
+      "properties": {
+        "Homepage Assets": {
+          "id": "%3FXOH",
+          "type": "relation",
+          "relation": [
+            {
+              "id": "222e70e0-d93b-4135-bb65-6f679e6abfa0"
+            }
+          ]
+        },
+        "Transcript": {
+          "id": "JXQO",
+          "type": "relation",
+          "relation": []
+        },
+        "Description": {
+          "id": "NaJA",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "MIT List Visual Arts Center\n\nOrganized by Selby Nimrod\n\nProduction assistance from Jesse Collins, John Osorio-Buck, & Tim Lloyd\n\nPhotos by Peter Harris Studio",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "MIT List Visual Arts Center\n\nOrganized by Selby Nimrod\n\nProduction assistance from Jesse Collins, John Osorio-Buck, & Tim Lloyd\n\nPhotos by Peter Harris Studio",
+              "href": null
+            }
+          ]
+        },
+        "Press & Exhibition Catalogues": {
+          "id": "gTiv",
+          "type": "relation",
+          "relation": []
+        },
+        "Exhibition Publication": {
+          "id": "gjzR",
+          "type": "files",
+          "files": []
+        },
+        "Year": {
+          "id": "nOA%5B",
+          "type": "select",
+          "select": {
+            "id": "ae9c224d-beb4-4596-9334-be2c58ddc3d0",
+            "name": "2020",
+            "color": "purple"
+          }
+        },
+        "Exhibitions & Screenings": {
+          "id": "n~_N",
+          "type": "relation",
+          "relation": []
+        },
+        "ID": {
+          "id": "sB~%60",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "20",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "20",
+              "href": null
+            }
+          ]
+        },
+        "Medium": {
+          "id": "sXER",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Plywood, wood, drywall, projected video, video on monitor, art paper, black house paint, reproduced family photos, reproduced publication ephemera",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Plywood, wood, drywall, projected video, video on monitor, art paper, black house paint, reproduced family photos, reproduced publication ephemera",
+              "href": null
+            }
+          ]
+        },
+        "Exhibition Guide": {
+          "id": "wMc%5B",
+          "type": "files",
+          "files": []
+        },
+        "Tags": {
+          "id": "znns",
+          "type": "multi_select",
+          "multi_select": [
+            {
+              "id": "bc0731aa-7b0c-49c2-9765-9132415acbaf",
+              "name": "Installation",
+              "color": "yellow"
+            }
+          ]
+        },
+        "Thumbnail": {
+          "id": "~mnE",
+          "type": "files",
+          "files": [
+            {
+              "name": "RamiGeorge_2020_List-Projects-21_ref.png",
+              "type": "file",
+              "file": {
+                "url": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/cf819fb3-d0a2-4a23-8cce-4dee5ee36660/RamiGeorge_2020_List-Projects-21_ref.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220604%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220604T181349Z&X-Amz-Expires=3600&X-Amz-Signature=b76c1a1a5b92b421099ad8e84f7918b7aecebed954cbb7341142e466dbbac836&X-Amz-SignedHeaders=host&x-id=GetObject",
+                "expiry_time": "2022-06-04T19:13:49.506Z"
+              }
+            }
+          ]
+        },
+        "Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "List Projects 21: Rami George",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": true,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "List Projects 21: Rami George",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/List-Projects-21-Rami-George-a1fbbb7bf19c4757a0ab23c583637247"
+    },
+    {
+      "object": "page",
+      "id": "2f2d57f8-7562-4b26-a7c6-a3775fd39b75",
+      "created_time": "2022-05-18T01:16:00.000Z",
+      "last_edited_time": "2022-06-02T20:03:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "b84e74af-1a0b-495e-ac45-7fa25f54d686"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "b84e74af-1a0b-495e-ac45-7fa25f54d686"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "bee593ef-dc65-4282-911f-3dc5550e144a"
+      },
+      "archived": false,
+      "properties": {
+        "Homepage Assets": {
+          "id": "%3FXOH",
+          "type": "relation",
+          "relation": [
+            {
+              "id": "4e96e8d7-1647-4e3a-afd0-919f0cd8d976"
+            }
+          ]
+        },
+        "Transcript": {
+          "id": "JXQO",
+          "type": "relation",
+          "relation": []
+        },
+        "Description": {
+          "id": "NaJA",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "David Salkin Creative\n\nPhotos by Aron Gent",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "David Salkin Creative\n\nPhotos by Aron Gent",
+              "href": null
+            }
+          ]
+        },
+        "Press & Exhibition Catalogues": {
+          "id": "gTiv",
+          "type": "relation",
+          "relation": []
+        },
+        "Exhibition Publication": {
+          "id": "gjzR",
+          "type": "files",
+          "files": []
+        },
+        "Year": {
+          "id": "nOA%5B",
+          "type": "select",
+          "select": {
+            "id": "ae9c224d-beb4-4596-9334-be2c58ddc3d0",
+            "name": "2020",
+            "color": "purple"
+          }
+        },
+        "Exhibitions & Screenings": {
+          "id": "n~_N",
+          "type": "relation",
+          "relation": []
+        },
+        "ID": {
+          "id": "sB~%60",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "21",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "21",
+              "href": null
+            }
+          ]
+        },
+        "Medium": {
+          "id": "sXER",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Three videos on monitor, family photos, expired Lebanese and U.S. passports, abandoned application for U.S. citizenship, ",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Three videos on monitor, family photos, expired Lebanese and U.S. passports, abandoned application for U.S. citizenship, ",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": "Time Magazine: Massacre in Lebanon",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": true,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Time Magazine: Massacre in Lebanon",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": ", ",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": ", ",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": "Witness of War Crimes in Lebanon",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": true,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Witness of War Crimes in Lebanon",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": ", VHS cassettes found in Beirut, ",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": ", VHS cassettes found in Beirut, ",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": "Arab Image Foundation",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": true,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Arab Image Foundation",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": " postcard, vinyl wall text by Omar Mismar",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": " postcard, vinyl wall text by Omar Mismar",
+              "href": null
+            }
+          ]
+        },
+        "Exhibition Guide": {
+          "id": "wMc%5B",
+          "type": "files",
+          "files": []
+        },
+        "Tags": {
+          "id": "znns",
+          "type": "multi_select",
+          "multi_select": [
+            {
+              "id": "bc0731aa-7b0c-49c2-9765-9132415acbaf",
+              "name": "Installation",
+              "color": "yellow"
+            }
+          ]
+        },
+        "Thumbnail": {
+          "id": "~mnE",
+          "type": "files",
+          "files": [
+            {
+              "name": "RamiGeorge_2020_Untitled-the-wars-in-Lebanon_ref.png",
+              "type": "file",
+              "file": {
+                "url": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/9c6651fa-3d9d-40b3-8f00-c000a068c036/RamiGeorge_2020_Untitled-the-wars-in-Lebanon_ref.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220604%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220604T181349Z&X-Amz-Expires=3600&X-Amz-Signature=a8bdce49648bb5ef12fe93db39b1306c5031abc0554f8015de5e8ebd222705ea&X-Amz-SignedHeaders=host&x-id=GetObject",
+                "expiry_time": "2022-06-04T19:13:49.505Z"
+              }
+            }
+          ]
+        },
+        "Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Untitled (the wars in Lebanon)",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Untitled (the wars in Lebanon)",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/Untitled-the-wars-in-Lebanon-2f2d57f875624b26a7c6a3775fd39b75"
+    },
+    {
+      "object": "page",
+      "id": "a16b3887-7152-4f23-acab-ee37676bc026",
+      "created_time": "2022-05-18T01:00:00.000Z",
+      "last_edited_time": "2022-06-02T20:02:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "b84e74af-1a0b-495e-ac45-7fa25f54d686"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "b84e74af-1a0b-495e-ac45-7fa25f54d686"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "bee593ef-dc65-4282-911f-3dc5550e144a"
+      },
+      "archived": false,
+      "properties": {
+        "Homepage Assets": {
+          "id": "%3FXOH",
+          "type": "relation",
+          "relation": [
+            {
+              "id": "b9948f95-bab6-4e2c-8ff4-eeaa87a0d8b1"
+            }
+          ]
+        },
+        "Transcript": {
+          "id": "JXQO",
+          "type": "relation",
+          "relation": [
+            {
+              "id": "47a49acf-b981-4f45-bd70-3a9350a9a3f1"
+            }
+          ]
+        },
+        "Description": {
+          "id": "NaJA",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Voice of Jack Marmorstein\n\nFootage contributed by Alex Liegel, Chris Cole, David Nokovic, Katherine Bowers, Laurel V. McLaughlin, Selby Nimrod, Sergey Y. Smolin\n\nCommissioned by Center for Contemporary Art & Culture\n\nWith gratitude to Monika Uchiyama",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Voice of Jack Marmorstein\n\nFootage contributed by Alex Liegel, Chris Cole, David Nokovic, Katherine Bowers, Laurel V. McLaughlin, Selby Nimrod, Sergey Y. Smolin\n\nCommissioned by Center for Contemporary Art & Culture\n\nWith gratitude to Monika Uchiyama",
+              "href": null
+            }
+          ]
+        },
+        "Press & Exhibition Catalogues": {
+          "id": "gTiv",
+          "type": "relation",
+          "relation": []
+        },
+        "Exhibition Publication": {
+          "id": "gjzR",
+          "type": "files",
+          "files": []
+        },
+        "Year": {
+          "id": "nOA%5B",
+          "type": "select",
+          "select": {
+            "id": "ae9c224d-beb4-4596-9334-be2c58ddc3d0",
+            "name": "2020",
+            "color": "purple"
+          }
+        },
+        "Exhibitions & Screenings": {
+          "id": "n~_N",
+          "type": "relation",
+          "relation": []
+        },
+        "ID": {
+          "id": "sB~%60",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "23",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "23",
+              "href": null
+            }
+          ]
+        },
+        "Medium": {
+          "id": "sXER",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "HD video, color, sound\n12:42 min.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "HD video, color, sound\n12:42 min.",
+              "href": null
+            }
+          ]
+        },
+        "Exhibition Guide": {
+          "id": "wMc%5B",
+          "type": "files",
+          "files": []
+        },
+        "Tags": {
+          "id": "znns",
+          "type": "multi_select",
+          "multi_select": [
+            {
+              "id": "aaff8020-c421-40ea-8d23-1726af9a481f",
+              "name": "Video",
+              "color": "orange"
+            }
+          ]
+        },
+        "Thumbnail": {
+          "id": "~mnE",
+          "type": "files",
+          "files": [
+            {
+              "name": "RamiGeorge_2020_Untitled-the-ashram_ref.png",
+              "type": "file",
+              "file": {
+                "url": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/df5e2cf2-79de-4d95-9c72-de756307b493/RamiGeorge_2020_Untitled-the-ashram_ref.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220604%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220604T181349Z&X-Amz-Expires=3600&X-Amz-Signature=e66b849aaaf2f7ac8db04f2e4c8eb11c388a306bd787b5f08b96185e2ecdccb7&X-Amz-SignedHeaders=host&x-id=GetObject",
+                "expiry_time": "2022-06-04T19:13:49.505Z"
+              }
+            }
+          ]
+        },
+        "Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Untitled (the ashram)",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Untitled (the ashram)",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/Untitled-the-ashram-a16b388771524f23acabee37676bc026"
+    },
+    {
+      "object": "page",
+      "id": "658e7fd6-bf87-4cbd-890c-04df8c997a30",
+      "created_time": "2022-05-18T00:17:00.000Z",
+      "last_edited_time": "2022-06-02T19:00:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "b84e74af-1a0b-495e-ac45-7fa25f54d686"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "b84e74af-1a0b-495e-ac45-7fa25f54d686"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "bee593ef-dc65-4282-911f-3dc5550e144a"
+      },
+      "archived": false,
+      "properties": {
+        "Homepage Assets": {
+          "id": "%3FXOH",
+          "type": "relation",
+          "relation": [
+            {
+              "id": "6eb59891-0f73-45bc-b87a-e7f9267f5072"
+            }
+          ]
+        },
+        "Transcript": {
+          "id": "JXQO",
+          "type": "relation",
+          "relation": [
+            {
+              "id": "ec5afd94-661a-402e-9370-2e3db0d556c1"
+            }
+          ]
+        },
+        "Description": {
+          "id": "NaJA",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "With Ariel Zetina\n\nMusic by Bastardgeist\n\nFootage contributed by Joel Midden",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "With Ariel Zetina\n\nMusic by Bastardgeist\n\nFootage contributed by Joel Midden",
+              "href": null
+            }
+          ]
+        },
+        "Press & Exhibition Catalogues": {
+          "id": "gTiv",
+          "type": "relation",
+          "relation": []
+        },
+        "Exhibition Publication": {
+          "id": "gjzR",
+          "type": "files",
+          "files": []
+        },
+        "Year": {
+          "id": "nOA%5B",
+          "type": "select",
+          "select": {
+            "id": "L<po",
+            "name": "2021",
+            "color": "red"
+          }
+        },
+        "Exhibitions & Screenings": {
+          "id": "n~_N",
+          "type": "relation",
+          "relation": []
+        },
+        "ID": {
+          "id": "sB~%60",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "24",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "24",
+              "href": null
+            }
+          ]
+        },
+        "Medium": {
+          "id": "sXER",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "HD video, color, sound\n5:36 min.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "HD video, color, sound\n5:36 min.",
+              "href": null
+            }
+          ]
+        },
+        "Exhibition Guide": {
+          "id": "wMc%5B",
+          "type": "files",
+          "files": []
+        },
+        "Tags": {
+          "id": "znns",
+          "type": "multi_select",
+          "multi_select": [
+            {
+              "id": "aaff8020-c421-40ea-8d23-1726af9a481f",
+              "name": "Video",
+              "color": "orange"
+            }
+          ]
+        },
+        "Thumbnail": {
+          "id": "~mnE",
+          "type": "files",
+          "files": [
+            {
+              "name": "RamiGeorge_2021_Dog_ref.png",
+              "type": "file",
+              "file": {
+                "url": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/488cd64a-a685-4f84-86a7-54a6f39e23a3/RamiGeorge_2021_Dog_ref.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220604%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220604T181349Z&X-Amz-Expires=3600&X-Amz-Signature=341cbdc6b609d277bec5162d5e58076ecde02868629654d66903835f8e815538&X-Amz-SignedHeaders=host&x-id=GetObject",
+                "expiry_time": "2022-06-04T19:13:49.504Z"
+              }
+            }
+          ]
+        },
+        "Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Dog",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Dog",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/Dog-658e7fd6bf874cbd890c04df8c997a30"
+    },
+    {
+      "object": "page",
+      "id": "854bec08-357f-4f7e-92fd-a27e8ac8d7a1",
+      "created_time": "2022-05-18T00:17:00.000Z",
+      "last_edited_time": "2022-06-02T20:03:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "b84e74af-1a0b-495e-ac45-7fa25f54d686"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "b84e74af-1a0b-495e-ac45-7fa25f54d686"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "bee593ef-dc65-4282-911f-3dc5550e144a"
+      },
+      "archived": false,
+      "properties": {
+        "Homepage Assets": {
+          "id": "%3FXOH",
+          "type": "relation",
+          "relation": [
+            {
+              "id": "e57fc35e-c58e-4322-a10f-f2999867062e"
+            }
+          ]
+        },
+        "Transcript": {
+          "id": "JXQO",
+          "type": "relation",
+          "relation": []
+        },
+        "Description": {
+          "id": "NaJA",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Exhibited in ",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Exhibited in ",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": "and one day will tell you so many stories",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": true,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "and one day will tell you so many stories",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": "\n\nParagon Arts Gallery\n\nOrganized by Laurel V. McLaughlin\n\nProduction assistance from Aaron McKee & Shana Palmer\n\nPhotos by Mario Gallucci\n\nWith gratitude to Valentina Soto Illanes",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "\n\nParagon Arts Gallery\n\nOrganized by Laurel V. McLaughlin\n\nProduction assistance from Aaron McKee & Shana Palmer\n\nPhotos by Mario Gallucci\n\nWith gratitude to Valentina Soto Illanes",
+              "href": null
+            }
+          ]
+        },
+        "Press & Exhibition Catalogues": {
+          "id": "gTiv",
+          "type": "relation",
+          "relation": []
+        },
+        "Exhibition Publication": {
+          "id": "gjzR",
+          "type": "files",
+          "files": []
+        },
+        "Year": {
+          "id": "nOA%5B",
+          "type": "select",
+          "select": {
+            "id": "ae9c224d-beb4-4596-9334-be2c58ddc3d0",
+            "name": "2020",
+            "color": "purple"
+          }
+        },
+        "Exhibitions & Screenings": {
+          "id": "n~_N",
+          "type": "relation",
+          "relation": []
+        },
+        "ID": {
+          "id": "sB~%60",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "22",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "22",
+              "href": null
+            }
+          ]
+        },
+        "Medium": {
+          "id": "sXER",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Digital collage (family photos, news clippings, Google Maps screenshots, stickers, postcards, manipulated publication ephemera), foamcore, wood\n\n84 x 96 x 28 in\n213.36 x 243.84 x 71.12 cm",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Digital collage (family photos, news clippings, Google Maps screenshots, stickers, postcards, manipulated publication ephemera), foamcore, wood\n\n84 x 96 x 28 in\n213.36 x 243.84 x 71.12 cm",
+              "href": null
+            }
+          ]
+        },
+        "Exhibition Guide": {
+          "id": "wMc%5B",
+          "type": "files",
+          "files": []
+        },
+        "Tags": {
+          "id": "znns",
+          "type": "multi_select",
+          "multi_select": [
+            {
+              "id": "bc0731aa-7b0c-49c2-9765-9132415acbaf",
+              "name": "Installation",
+              "color": "yellow"
+            }
+          ]
+        },
+        "Thumbnail": {
+          "id": "~mnE",
+          "type": "files",
+          "files": [
+            {
+              "name": "RamiGeorge_2020_Untitled-mapping_ref.png",
+              "type": "file",
+              "file": {
+                "url": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/a00274a1-fe89-4a59-98d3-21c1f4567703/RamiGeorge_2020_Untitled-mapping_ref.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220604%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220604T181349Z&X-Amz-Expires=3600&X-Amz-Signature=742e333f5b9e26dbf9e7dc1e9003dcc3d288cbad58737bee3355fb88768ae14b&X-Amz-SignedHeaders=host&x-id=GetObject",
+                "expiry_time": "2022-06-04T19:13:49.505Z"
+              }
+            }
+          ]
+        },
+        "Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Untitled (mapping)",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": true,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Untitled (mapping)",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/Untitled-mapping-854bec08357f4f7e92fda27e8ac8d7a1"
+    }
+  ],
+  "next_cursor": null,
+  "has_more": false,
+  "type": "page",
+  "page": {}
+}

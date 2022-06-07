@@ -1,24 +1,23 @@
 use reqwest;
 use reqwest::header::{self, HeaderValue, ACCEPT, AUTHORIZATION, CONTENT_TYPE};
-use reqwest::{Client, Error};
-use crate::repo::notion::types;
-use crate::repo::notion::types::Ip;
+use reqwest::{Client, Error, StatusCode};
+use crate::repo::notion::types::{Root};
 
 pub async fn get_pages(
     token: &String,
     database_id: &String,
 ) -> Result<(), Box<dyn std::error::Error>> {
-    let client = notion_client(&token);
-    // let url = format!("https://api.notion.com/v1/databases/{}/query", database_id);
-
-    let json: Ip = reqwest::get("http://httpbin.org/ip").await?.json().await?;
-    // let response = client.unwrap().post(url).send();
-    // let status = response.status();
-    // println!("status = {}", status);
-
-    // let root = response.await?.json::<types::Root>().await?;
-    // let root: Value = response.json::<serde_json::Value>().await?;
-    println!("json = {:?}", json.origin);
+    let client = notion_client(&token).unwrap();
+    let url = format!("https://api.notion.com/v1/databases/{}/query", database_id);
+    let response = client.post(url).send().await?;
+    match response.status() {
+        status_ok @ StatusCode::OK => {
+            println!("status = {}", status_ok);
+            let root: Root = response.json().await?;
+            println!("root = {:?}", root.results);
+        }
+        _ => println!("error: {:?}", response.status())
+    }
 
     Ok(())
 }
