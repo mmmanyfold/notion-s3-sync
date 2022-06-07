@@ -3,9 +3,10 @@ mod config;
 mod repo;
 
 use crate::config::NotionAPIConfig;
-use repo::notion;
+use crate::repo::notion::client;
 
-fn main() {
+#[tokio::main]
+async fn main() {
     let nac: NotionAPIConfig = config::init();
     let args = cmd::cli::run();
     let db_id = args
@@ -14,7 +15,7 @@ fn main() {
         .parse()
         .unwrap();
 
-    if let Ok(body) = notion::get_pages(&nac.key, &db_id) {
+    if let Ok(body) = client::get_pages(&nac.key, &db_id).await {
         println!("page body response: {:#?}", body);
     }
 }
