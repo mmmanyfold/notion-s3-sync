@@ -1,6 +1,5 @@
-use reqwest;
 use reqwest::header::{self, HeaderValue, ACCEPT, AUTHORIZATION, CONTENT_TYPE};
-use reqwest::{Client, Error, StatusCode};
+use reqwest::{self, Client, Error, StatusCode};
 use crate::repo::notion::types::{Root};
 
 pub async fn get_pages(
