@@ -4,9 +4,9 @@ use serde_json::Value;
 
 #[derive(Serialize, Deserialize, Debug, Clone)]
 #[serde(rename_all = "camelCase")]
-pub struct Root {
+pub struct ProjectsRoot {
     pub object: String,
-    pub results: Vec<Result>,
+    pub results: Vec<Project>,
     #[serde(rename = "next_cursor")]
     pub next_cursor: Value,
     #[serde(rename = "has_more")]
@@ -18,7 +18,7 @@ pub struct Root {
 
 #[derive(Serialize, Deserialize, Debug, Clone)]
 #[serde(rename_all = "camelCase")]
-pub struct Result {
+pub struct Project {
     pub object: String,
     pub id: String,
     // #[serde(rename = "created_time")]
@@ -208,5 +208,4 @@ pub struct Annotations {
 
 #[derive(Serialize, Deserialize, Debug, Clone)]
 #[serde(rename_all = "camelCase")]
-pub struct Page {
-}
+pub struct Page {}

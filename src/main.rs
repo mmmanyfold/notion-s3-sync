@@ -3,7 +3,7 @@ mod config;
 mod repo;
 
 use crate::config::NotionAPIConfig;
-use crate::repo::notion::client;
+use crate::repo::notion::client::NotionAPIClient;
 
 #[tokio::main]
 async fn main() {
@@ -15,7 +15,8 @@ async fn main() {
         .parse()
         .unwrap();
 
-    if let Ok(body) = client::get_pages(&nac.key, &db_id).await {
-        println!("page body response: {:#?}", body);
+    let client: NotionAPIClient = NotionAPIClient::new(&nac.key).unwrap();
+    if let Ok(pages) = client.get_pages(db_id).await {
+        println!("page body response: {:#?}", pages);
     }
 }
